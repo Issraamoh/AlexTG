@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlexTG</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="hotels_label">Hotels</string>
+    <string name="resturants_label">Resturants</string>
+    <string name="cafes_label">Cafes</string>
+    <string name="other_label">Other</string>
+</resources>
